@@ -4,15 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,docker,neovim,c,go,linux,github,raspberrypi,redis," />
+    <img src="https://skillicons.dev/icons?i=py,r,c,cs,cpp,java,unity,linux,git,raspberrypi,redis,docker" />
   </a>
 </p>
 
-🎓 I'm a senior at the University of Tulsa, double majoring in **Computer Science** and **Mathematics**.  
-🚀 Currently, I’m a **Research Intern at NASA Goddard Space Flight Center**, where I’m contributing to scientific and technical research in support of autonomous science.  
-🐍 I primarily code in **Python**, with hands-on experience in **data science**, machine learning, and scripting for scientific applications.  
-🧠 Recently, I’ve been expanding my skill set by learning **Go** and **C**, and I'm also passionate about **software engineering** and building scalable systems.  
-📊 My background blends **analytical thinking** with **real-world engineering**, and I’m always eager to explore new tools, languages, and challenges.
+🎓 I'm a senior at the University of Tulsa, majoring in Computer Science.  
+💻 I have experience in Python, R, C, C++, C#, and Java.<br>
+🍂 In my free time I am currently working on projects related to graphics APIs and high-level data representation for machine learning.
 
 ---
 
